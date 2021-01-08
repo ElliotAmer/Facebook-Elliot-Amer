@@ -11,7 +11,7 @@ Sensitive data exposure
 
 # [ Installation ]
 ```
-git clone 
+git clone https://github.com/ElliotAmer/Facebook-Elliot-Amer.git 
 cd OSIF
 ```
 
