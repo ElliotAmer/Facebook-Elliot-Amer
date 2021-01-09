@@ -74,8 +74,7 @@ def show_program():
 
          FaceBook: Elliot Amer
 
-* if you find any errors or problems , please contact
-  author
+* Elliot Amer
 '''%(G,W)
 def info_ga():
 
